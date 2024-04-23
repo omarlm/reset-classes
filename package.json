@@ -3,6 +3,7 @@
   "displayName": "reset-classes",
   "description": "Reset classes simplifies frontend development by swiftly removing unused CSS classes. Easily reset your web project's design without manual search and replace.",
   "version": "1.0.0",
+  "publisher": "reset-classes",
   "engines": {
     "vscode": "^1.88.0"
   },
