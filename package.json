@@ -1,9 +1,9 @@
 {
   "name": "reset-classes",
-  "displayName": "reset-classes",
+  "displayName": "Reset Classes",
   "description": "Reset classes simplifies frontend development by swiftly removing unused CSS classes. Easily reset your web project's design without manual search and replace.",
   "version": "1.0.0",
-  "publisher": "reset-classes",
+  "publisher": "devolm",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -44,5 +44,9 @@
     "webpack-cli": "^5.1.4",
     "@vscode/test-cli": "^0.0.8",
     "@vscode/test-electron": "^2.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omarlm/reset-classes"
   }
 }
